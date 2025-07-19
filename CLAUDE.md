@@ -36,6 +36,7 @@
 - **言語**: JavaScript（TypeScript不使用）
 
 ### バックエンド(backend)
+- **Webフレームワーク**: FastAPI(Python)
 - **BaaS**: Supabase
 - **データベース**: PostgreSQL（Supabase）
 - **認証**: Supabase Auth
